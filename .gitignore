@@ -106,6 +106,4 @@ dist
 # Build folder of client app
 client/dist
 
-.DS_Store
-
-client/.DS_Store
+*DS_Store
